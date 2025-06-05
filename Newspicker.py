@@ -17,7 +17,7 @@ st.markdown("Analyzes the latest headlines from [Hacker News](https://news.ycomb
 
 NEWS_URL = "https://news.ycombinator.com/"
 
-@st.cache_data(show_spinner=False)
+@st.cache_data(show_spinner=True)
 def get_latest_headlines(url):
     headers = {'User-Agent': 'Mozilla/5.0'}
     try:
