@@ -1,6 +1,6 @@
 # 📰 Real-time News Headline Extractor & Sentiment Analyzer
 
-##>📰🗞️🗞 You can access my app from here: [NEWS-PICKER](https://news-picker-9mkfn3alfvwfuw7jhbfazj.streamlit.app/)
+>📰🗞️🗞 You can access my app from here: [NEWS-PICKER](https://news-picker-9mkfn3alfvwfuw7jhbfazj.streamlit.app/)
 
 ## 🌟 Project Overview
 
