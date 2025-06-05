@@ -1,6 +1,8 @@
 # 📰 Real-time News Headline Extractor & Sentiment Analyzer
 
 >📰🗞️🗞 You can access my app from here: [NEWS-PICKER](https://news-picker-9mkfn3alfvwfuw7jhbfazj.streamlit.app/)
+>COPY CODE FROM HERE: [Code](https://github.com/MaheshPrasanthGovind/NEWS-PICKER/blob/main/Newspicker.py)
+
 
 ## 🌟 Project Overview
 
@@ -40,3 +42,4 @@ This project reflects a journey of **practical data science and software enginee
 - **Reproducible Research**:
   - `requirements.txt` for dependency tracking
   - README documentation for clarity and sharing
+
