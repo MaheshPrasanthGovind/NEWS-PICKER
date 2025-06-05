@@ -1,7 +1,7 @@
 streamlit
+seaborn
 requests
 beautifulsoup4
 pandas
 textblob
 matplotlib
-seaborn
