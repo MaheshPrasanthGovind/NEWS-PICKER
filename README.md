@@ -6,8 +6,6 @@
 
 This project is a **real-time news headline scraper and analyzer** built using Python and Streamlit. It scrapes the latest headlines from [Hacker News](https://news.ycombinator.com/), processes them for analysis, and visualizes both the **sentiment** and **word frequency** of the current news cycle.
 
-> ✅ Built by a high school senior as part of an Ivy League college application portfolio.
-
 ---
 
 ## 🎯 Key Features
